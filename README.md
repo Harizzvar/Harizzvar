@@ -5,7 +5,7 @@ I'm **Harishvar K**, but in the coding universe, I go by **@Harizzvar**. Based i
 ## About Me
 
 - 🌱 **Learning Journey**: I'm actively learning Java and deepening my programming skills to build robust and scalable applications.
-- 💻 **Coding Every Day Challenge**: Committed to enhancing my problem-solving abilities, I tackle new coding challenges each day, documenting my journey, sharing my solutions and insights along the way.
+- 💻 **Coding Every Day Challenge**: Committed to enhancing my problem-solving abilities, I tackle new coding challenges each day, documenting my journey, sharing my solutions and insights along the way. You can follow my progress and solutions on my [LeetCode profile](https://leetcode.com/u/Harizzvar/).
 
 ## My Projects
 
